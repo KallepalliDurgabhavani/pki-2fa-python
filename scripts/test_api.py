@@ -7,8 +7,8 @@ import json
 from pathlib import Path
 
 # ===== EDIT THESE VALUES =====
-STUDENT_ID = "23MH1A1220"  # Replace with your actual student ID
-GITHUB_REPO_URL = "https://github.com/Akashkallepalli/pki-2fa-python"  
+STUDENT_ID = "22MH1A05H9"  # Replace with your actual student ID
+GITHUB_REPO_URL = "https://github.com/KallepalliDurgabhavani/pki-2fa-python.git"  
 API_URL = "https://eajeyq4r3zljoq4rpovy2nthda0vtjqf.lambda-url.ap-south-1.on.aws"
 # =============================
 

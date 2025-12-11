@@ -9,8 +9,8 @@ from pathlib import Path
 API_URL = "https://eajeyq4r3zljoq4rpovy2nthda0vtjqf.lambda-url.ap-south-1.on.aws/"
 
 
-STUDENT_ID = "23MH1A1220"
-GITHUB_REPO_URL = "https://github.com/Akashkallepalli/pki-2fa-python"
+STUDENT_ID = "22MH1A05H9"
+GITHUB_REPO_URL = "https://github.com/KallepalliDurgabhavani/pki-2fa-python"
 
 
 def load_public_key_text(path: str) -> str:
