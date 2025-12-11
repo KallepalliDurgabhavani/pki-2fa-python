@@ -1,3 +1,4 @@
+# Dockerfile for 2FA Logging Service with Cron and FastAPI
 # ============================================
 # Stage 1: Builder - Install dependencies
 # ============================================
