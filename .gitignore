@@ -1,3 +1,4 @@
+#gitignore for pki-2fa-python project
 # Encrypted seed (sensitive)
 encrypted_seed.txt
 
